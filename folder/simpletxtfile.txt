@@ -11,3 +11,7 @@ On delta comments seems to work fine - when comment is added it is displayed rig
 On delta comments seems to work fine - when comment is added it is displayed right away, without the need of refereshing the page, although for longer comments sometimes it takes some time to get a response from the editor.
 
 On delta comments seems to work fine - when comment is added it is displayed right away, without the need of refereshing the page, although for longer comments sometimes it takes some time to get a response from the editor.
+
+
+
+lasttts  kkkkkkdsfkdsf
